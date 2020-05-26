@@ -16,6 +16,8 @@ import { Component, Input } from "@angular/core";
     <ng-template #elseblock>
     <h1>hidden</h1>
     </ng-template>
+    <br />
+    <button class="btn btn-primary">click Here</button>
   `,
   styles: [
     `
